@@ -31,7 +31,11 @@ Power BI · DAX · Power Query · PostgreSQL
 
 ## Screenshots
 
-Coming soon.
+![Dashboard Overview](oee-overview.png.png)
+![KPI Cards](oee-kpis.png.png)
+![Data Model](oee-datamodel.png.png)
+![Availability](oee-availability.png)
+![Performance](oee-performance.png)
 
 ## Author
 
