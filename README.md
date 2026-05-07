@@ -4,8 +4,7 @@ An interactive Power BI dashboard tracking Overall Equipment Effectiveness (OEE)
 across 10 production machines, delivering structured KPI reporting across 
 availability, performance, and quality dimensions.
 
-Developed as part of a Business Intelligence course at OTH Amberg-Weiden, 
-in collaboration with Constantia Flexibles Pirk (2024).
+Developed as part of a Business Intelligence course at OTH Amberg-Weiden
 
 ## What It Measures
 
